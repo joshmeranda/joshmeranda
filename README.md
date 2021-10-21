@@ -13,7 +13,7 @@ I'm Josh a recent grad from [Champlain College](https://www.champlain.edu/) (Dec
 
 <div>
   <div>
-    <img src="/images/joshmeranda_profile.jpg" align="right" width="30%"/>
+<!--     <img src="/images/joshmeranda_profile.jpg" align="right" width="30%"/> -->
     <p>(profile picture cropped from <a href="https://www.tomgauld.com">Tom Gauld's</a> comics)</p>
   <div>
   <img src="/images/poodle_problem.jpg" align="left" width="60%" />
