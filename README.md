@@ -4,7 +4,7 @@
 
 I'm Josh! I am a big fan of all things automation and open source! Recently I've been doing a lot with [Go](https://go.dev/) and [k8s](https://kubernetes.io/).
 
-If you're interested I have an ongoing tech journal container documentation, experiments, thoughts, etc at [MyJournal](https://github.com/joshmeranda/MyJournal/).
+If you're interested I have an ongoing tech journal containing documentation, experiments, thoughts, etc at [MyJournal](https://github.com/joshmeranda/MyJournal/).
 
 - 🌱 I'm always looking for new and interesting challenges
 - 📫 How to reach me: [![joshmeranda](https://img.shields.io/badge/lable--blue?style=flat&logo=gmail&labelColor=white&color=white&label=joshmeranda@gmail.com)](mailto:joshmeranda@gmail.com)
